@@ -1,0 +1,8 @@
+{
+  "name": "Gunadhar Maity & Sons - Hardware Merchant & General Order Suppliers",
+  "description": "Industrial hardware catalog, real-time stock management, low-stock alerts, GST invoice generation, supplier management, and customer portal for Gunadhar Maity & Sons, Kolkata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
